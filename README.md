@@ -1,6 +1,4 @@
-<h1 align="center">
- Babyagi
-</h1>
+# Babyagi
 ![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)
 
 # Objective
