@@ -1,2 +1,15 @@
-.env*
-.idea
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.env.*
+env/
+.venv
+venv/
+
+.vscode/
+.idea/
+
+models
+llama/
